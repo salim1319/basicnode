@@ -3,7 +3,7 @@ import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 
 const categories = [
-  { label: "Travel", icon: "user" },
+  { label: "Travels", icon: "user" },
   { label: "Shopping", icon: "user" },
   { label: "Travaling", icon: "user" },
   { label: "Bills", icon: "user" },
